@@ -1,4 +1,4 @@
-# GitHub Pages Link Extractor
+# Link Extractor
 
 Webページからリンクを素早く抽出するツールです。
 
@@ -41,8 +41,8 @@ Webページからリンクを素早く抽出するツールです。
 
 ## 🔗 リンク
 
-- [Live Demo](https://your-username.github.io/github-pages-link-extractor/)
-- [Source Code](https://github.com/your-username/github-pages-link-extractor)
+- [Live Demo](https://your-username.github.io/link-extractor/)
+- [Source Code](https://github.com/your-username/link-extractor)
 
 ---
 
